@@ -1,4 +1,3 @@
-layout_spectrum: 0.13832498155534267
 typography_spectrum: 0.16408908017911017
 color:
   brandStrength: 0.360055819619447
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.13832498155534267
 name: Fiat Lux
 title: Vampire Ninjas in Space
+description: Bring Forth the Light
