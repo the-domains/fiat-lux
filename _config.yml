@@ -1,0 +1,14 @@
+layout_spectrum: 0.13832498155534267
+typography_spectrum: 0.16408908017911017
+color:
+  brandStrength: 0.360055819619447
+  lightness: 0.6814949640538543
+  saturation: 0.328368415357545
+  rhythmicContrast: 0.4079754303675145
+  brandColors:
+    - '#000000'
+    - '#412B20'
+    - '#EEDBD6'
+    - '#9D8478'
+    - '#C9B195'
+name: Fiat Lux
