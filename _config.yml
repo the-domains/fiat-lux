@@ -6,9 +6,9 @@ color:
   saturation: 0.328368415357545
   rhythmicContrast: 0.4079754303675145
   brandColors:
-    - '#000000'
-    - '#412B20'
-    - '#EEDBD6'
-    - '#9D8478'
-    - '#C9B195'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Fiat Lux
